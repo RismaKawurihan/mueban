@@ -1,41 +1,20 @@
 # pgweb-responsi
 
-                                                                                    MUSEUM EXPLORATION ON BANDUNG
+# MUSEUM EXPLORATION ON BANDUNG
 
-______________________________________________________________________________________________________________________________________________________________________________________________________
-## Deskripsi Produk
-WebGIS ini dirancang dengan tujuan untuk
-
-## Komponen Pembangun Produk
-
-- *HTML:* Digunakan untuk struktur dasar halaman web.
-- *CSS:* Menangani tata letak dan desain halaman.
-- *Bootstrap:* Framework CSS untuk mempercepat pengembangan antarmuka pengguna yang responsif.
-- *Leaflet.js:* Library JavaScript untuk menangani peta interaktif.
-- *Geoserver:* Digunakan sebagai server GIS untuk menyediakan dan mengelola data geospasial.
-
-## Sumber Data
-
-- Data informasi wisata, kuliner, dan hotel diambil dari (https://www.pariwisata.denpasarkota.go.id/).
-- Data geospasial diakses melalui [InaGeoportal](https://www.inageoportal.id/), menyediakan informasi geospasial Indonesia.
-- Data titik lokasi diperoleh dari google maps ( https://www.google.com/maps), untuk informasi longitude dan latitude.
-
-# Explore Denpasar Tourism
-
-## Deskripsi Produk
-
-Denpasar Tourism adalah laman yang menampilkan informasi seputar tempat wisata di Kota Denpasar Bali. Website ini memberikan informasi detail tentang lokasi-lokasi tersebut, termasuk deskripsi lokasi wisata. Denpasar Tourism ini dibuat untuk memenuhi tugas responsi Praktikum Pemrograman Web Lanjut.
+## Mengenai Produk
+WebGIS ini dirancang dengan tujuan untuk mempermudah dalam mengeksplor museum museum yang berada di Bandung. Selain itu, webGIS ini menampilkan data mengenai lokasi terdekat halte bus Trans Bandung agar dapat mempermudah akses bagi touris atau wisatawan dalam menuju lokasi museum. Informasi yang disampaikan pada webGIS ini meliputi informasi jadwal operational museum dan harga dari tiket masuk museum tersebut.
 
 ## Komponen Pembangun Produk
 
-- *HTML:* Digunakan untuk struktur dasar halaman web.
-- *CSS:* Menangani tata letak dan desain halaman.
-- *Bootstrap:* Framework CSS untuk mempercepat pengembangan antarmuka pengguna yang responsif.
-- *Leaflet.js:* Library JavaScript untuk menangani peta interaktif.
+- *HTML:* Digunakan sebagai struktur dasar pada Landing page.
+- *CSS:* Digunakan sebagai style tata letak dan desain halaman.
+- *Bootstrap:* Digunakan sebagai framework CSS dalam pengembangan antarmuka pengguna yang responsif.
+- *Leaflet.js:* Digunakan sebagai Library JavaScript untuk menangani peta interaktif.
 - *Geoserver:* Digunakan sebagai server GIS untuk menyediakan dan mengelola data geospasial.
+- *DBever:* Digunakan sebagai database penyimpanan data museum
 
 ## Sumber Data
 
-- Data informasi wisata, kuliner, dan hotel diambil dari (https://www.pariwisata.denpasarkota.go.id/).
-- Data geospasial diakses melalui [InaGeoportal](https://www.inageoportal.id/), menyediakan informasi geospasial Indonesia.
-- Data titik lokasi diperoleh dari google maps ( https://www.google.com/maps), untuk informasi longitude dan latitude.
+- Data Informasi Museum di Bandung dari website resmi bandung https://www.bandung.go.id/
+- Data titik lokasi museum yang diperoleh dari google maps https://www.google.com/maps, untuk informasi longitude dan latitude.
