@@ -86,7 +86,7 @@ WebGIS ini dirancang dengan tujuan untuk mempermudah dalam mengeksplor museum mu
 - Data Informasi Museum di Bandung dari website resmi bandung https://www.bandung.go.id/
 - Data titik lokasi museum yang diperoleh dari google maps https://www.google.com/maps, untuk informasi longitude dan latitude.
 
-## Demo Projcet
+## Demo Project
 ![image](https://github.com/RismaKawurihan/mueban/assets/142877051/33b28a35-fe85-4f03-972a-17f136e41555)
 
 ![image](https://github.com/RismaKawurihan/mueban/assets/142877051/5d48e8a6-e9e7-406f-88b1-d81543c5b1b2)
