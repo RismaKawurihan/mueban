@@ -66,7 +66,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 =======
-# pgweb-responsi
 
 # MUSEUM EXPLORATION ON BANDUNG
 
@@ -80,10 +79,36 @@ WebGIS ini dirancang dengan tujuan untuk mempermudah dalam mengeksplor museum mu
 - *Bootstrap:* Digunakan sebagai framework CSS dalam pengembangan antarmuka pengguna yang responsif.
 - *Leaflet.js:* Digunakan sebagai Library JavaScript untuk menangani peta interaktif.
 - *Geoserver:* Digunakan sebagai server GIS untuk menyediakan dan mengelola data geospasial.
-- *DBever:* Digunakan sebagai database penyimpanan data museum
+- *DBeaver:* Digunakan sebagai database penyimpanan data museum
 
 ## Sumber Data
 
 - Data Informasi Museum di Bandung dari website resmi bandung https://www.bandung.go.id/
 - Data titik lokasi museum yang diperoleh dari google maps https://www.google.com/maps, untuk informasi longitude dan latitude.
+
+## Demo Project
+![image](https://github.com/RismaKawurihan/mueban/assets/142877051/33b28a35-fe85-4f03-972a-17f136e41555)
+
+![image](https://github.com/RismaKawurihan/mueban/assets/142877051/5d48e8a6-e9e7-406f-88b1-d81543c5b1b2)
+
+![image](https://github.com/RismaKawurihan/mueban/assets/142877051/784f9b52-0ec5-489b-9d3e-aac04134ea99)
+
+![image](https://github.com/RismaKawurihan/mueban/assets/142877051/283fee55-01c3-4ed3-84b6-b53249e42d30)
+
+Tampilan Map dan PopUpnya
+![image](https://github.com/RismaKawurihan/mueban/assets/142877051/cda0b0ea-6d3a-4437-84ed-3e8344dd3b24)
+
+![image](https://github.com/RismaKawurihan/mueban/assets/142877051/a349e613-528b-492b-9cee-d54a8d381e38)
+
+Fitur Dalam Website
+![image](https://github.com/RismaKawurihan/mueban/assets/142877051/91655ec2-4057-4482-af77-9dcc4798924f)
+
+![image](https://github.com/RismaKawurihan/mueban/assets/142877051/9e1b71e1-fb10-4bbb-bd11-fb75fe097cd9)
+
+![image](https://github.com/RismaKawurihan/mueban/assets/142877051/d34e84f2-0af9-47d7-aec8-5c212f6c6cb1)
+
+![image](https://github.com/RismaKawurihan/mueban/assets/142877051/a9bbddbb-aa4d-418e-b394-2e5f31cfedde)
+
+
+
 >>>>>>> 4f8584c5316dadee8b1f579dfe42ab43b08786f4
