@@ -182,16 +182,16 @@
             polygon.addData(data);
             map.addLayer(polygon);
         });
-
+    
         // layer control
         var overlayMaps = {
             "Point": point,
             "Polyline": polyline,
-            "Polygon": polygon
         };
 
         var layerControl = L.control.layers(null, overlayMaps, {
             collapsed: false
         }).addTo(map);
     </script>
+
 @endsection
